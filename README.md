@@ -18,18 +18,18 @@ document.getElementById("backGroundColor").style.backgroundColor = 'rgb(' + rgb[
 ```
 ##Demo
 
-[Click here] (http://demo.sodhanalibrary.com/get-background-color.html) to seee demo 
+[Click here] (http://demo.ftmocks.com/get-background-color.html) to seee demo 
 
 ##Algoirithm behind this script
 
-Most dominant color of edges and corners of image can be background color of the image. [Click here] (http://blog.sodhanalibrary.com/2015/05/detect-background-color-of-image-using.html#.VUNPFSGqqko) for more explanation
+Most dominant color of edges and corners of image can be background color of the image. [Click here] (http://blog.ftmocks.com/2015/05/detect-background-color-of-image-using.html#.VUNPFSGqqko) for more explanation
 
 ##Applications
 
 I have implemented some online tools using this script. Take a look at below links
 
-[Facebook Optimized Images](http://flaticon.sodhanalibrary.com/generate-facebook-optimized-images.html)
+[Facebook Optimized Images](http://flaticon.ftmocks.com/generate-facebook-optimized-images.html)
 
-[Facebook App Icons and Banners](http://flaticon.sodhanalibrary.com/generate-facebook-icons-and-banners.html) 
+[Facebook App Icons and Banners](http://flaticon.ftmocks.com/generate-facebook-icons-and-banners.html) 
 
-[Phonegap Icons and Screens](http://flaticon.sodhanalibrary.com/generate-phonegap-icons-screens.html)
+[Phonegap Icons and Screens](http://flaticon.ftmocks.com/generate-phonegap-icons-screens.html)
